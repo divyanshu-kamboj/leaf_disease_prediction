@@ -1,0 +1,3 @@
+tensorflow
+Keras
+opencv_python_headless
